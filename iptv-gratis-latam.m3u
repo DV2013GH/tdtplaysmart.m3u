@@ -9,7 +9,7 @@ http://8.243.126.131:8000/play/a001/index.m3u8
 #EXTINF:-1 tvg-id="475" tvg-logo="https://jhxdvb.o8za4kpx.xyz/public/images/194656f4-e392-46f8-b8e6-f9743929e423.png" group-title="Peru", RPP TV
 http://8.243.126.131:8000/play/a01u/index.m3u8
 
-#EXTINF:-1 tvg-id="194dtv.pe" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/a/m/am_rica_tv.png" group-title="Peru", America Television HD
+#EXTINF:-1 tvg-id="194dtv.pe" tvg-logo="https://sekrdq.x81niayvk.xyz/public/images/b0201272-9461-4f98-81c7-7e8d8b5b9405.png" group-title="Peru", America Television HD
 http://8.243.126.131:8000/play/a01q/index.m3u8
 
 #EXTINF:-1 tvg-id="195dtv.pe" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/p/a/panamericana_hd.png" group-title="Peru", Panamericana TV HD
@@ -33,7 +33,7 @@ http://8.243.126.131:8000/play/a01v/index.m3u8
 #EXTINF:-1 tvg-id="2047mvstr.pe" tvg-logo="https://jhxdvb.o8za4kpx.xyz/public/images/f5d35d6c-9670-487e-b0f7-82538c97fe3b.png" group-title="Peru", USMP TV HD
 http://8.243.126.131:8000/play/a04l/index.m3u8
 
-#EXTINF:-1 tvg-id="8571mvstr.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/IPE/EXPORTACION_WEB/SS/IPE_t-290x163.png" group-title="Peru", Canal IPe
+#EXTINF:-1 tvg-id="8571mvstr.pe" tvg-logo="https://sekrdq.x81niayvk.xyz/public/images/dc871d7e-f6c8-4133-9c7b-5688fd9e486b.png" group-title="Peru", Canal IPe
 http://8.243.126.131:8000/play/a04p/index.m3u8
 
 #EXTINF:-1 tvg-id="198dtv.pe" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/g/l/global_1.png" group-title="Peru", Global TV
@@ -42,11 +42,17 @@ http://8.243.126.131:8000/play/a01t/index.m3u8
 #EXTINF:-1 tvg-id="1190dtv.pe" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/t/v/tv_per_noticias_hd_1.png" group-title="Peru", TV Peru Noticias
 http://8.243.126.131:8000/play/a04j/index.m3u8
 
-#EXTINF:-1 tvg-id="547" tvg-logo="https://jhxdvb.o8za4kpx.xyz/public/images/8b71c883-7b9f-4dc7-8352-6ac5a5c78d83.png" group-title="Peru", Nativa TV
+#EXTINF:-1 tvg-id="547" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/176764445459/065423fd8588_640_360.png" group-title="Peru", Nativa TV
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://clarovideocdn1.clarovideo.net/PELICULAS/ATVSURNEW/EXPORTACION_WEB/SS/ATVSURNEW_t-290x163.png" group-title="Peru", ATV Sur HD
 http://8.243.126.131:8000/play/a04m/index.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/S6v94qo.png" group-title="Peru", Karibena TV HD
+http://200.37.201.98:8000/play/a0bi/index.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/j4UsBz2.png" group-title="Peru", Radio Nacional TV
+http://8.243.126.131:8000/play/a04i/index.m3u8
 
 #EXTINF:-1 tvg-id="tvmas.cl" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/t/v/tv_hd_1.png" group-title="Chile", TV+
 https://jireh-8-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8
@@ -58,7 +64,7 @@ http://daleplay.vip:80/live/hghc4@3gf(n)!/kmgd56(e)3@400/55279.m3u8
 http://daleplay.vip:80/live/hghc4@3gf(n)!/kmgd56(e)3@400/55277.m3u8
 
 #EXTINF:-1 tvg-id="chv.cl" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/c/h/chilevisi_n_hd_1.png" group-title="Chile", Chilevision HD
-http://daleplay.vip:80/live/hghc4@3gf(n)!/kmgd56(e)3@400/55272.m3u8
+http://daleplay.vip:80/live/hghc4@3gf(n)!/kmgd56(e)3@400/55274.m3u8
 
 #EXTINF:-1 tvg-id="152dtv.cl" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/c/a/canal_13_hd.png" group-title="Chile", Canal 13 HD
 http://daleplay.vip:80/live/hghc4@3gf(n)!/kmgd56(e)3@400/209.m3u8
@@ -104,4 +110,16 @@ http://181.78.6.2:9080/play/a0bo/index.m3u8
 
 #EXTINF:-1 tvg-id="136dtv.co" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/c/a/canal_1_hd_1.png" group-title="Colombia", Canal 1 HD
 http://181.78.6.2:9080/play/a056/index.m3u8
+
+#EXTINF:-1 tvg-id="560" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/20/00/1768842513372/2dc82a716cdd_640_360.png" group-title="Internacionales", RT en Espanol
+https://live-evg10.tv360.bitel.com.pe/bitel/rt/playlist.m3u8
+
+#EXTINF:-1 tvg-id="france-24-espanol.ar" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/29/21/1769698300484/4b925074401a_640_360.png" group-title="Internacionales", France 24
+https://live-evg8.tv360.bitel.com.pe/bitel/france24SRT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="352dtv.cl" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/ENLACE/EXPORTACION_WEB/SS/ENLACE_t-290x163.png" group-title="Internacionales", Enlace TV
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/BETHEL/EXPORTACION_WEB/SS/BETHEL_t-290x163.png" group-title="Internacionales", Bethel TV
+https://alfa.betheltv.tv/srt/3_abr/playlist.m3u8
 
